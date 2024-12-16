@@ -1,5 +1,5 @@
 ## In this script is a pretrained artificial neural network from Building AI ##
-# The network predicts the price of a cabin based it's attributes.
+# The network predicts the price of a cabin based on it's attributes.
 # I solved the task to fix it at some points and to use it to make a prediction for a cabin-price.
 # The network consists of an input layer with five nodes, a hidden layer with two nodes, a second hidden layer with two nodes, 
 # and finally an output layer with a single node. In addition there is a single bias node for each hidden layer and the output layer.

@@ -61,7 +61,7 @@ x_test = [[82, 2, 65, 3, 516]]
 
 # The forward pass algorithm.
 # The forward pass is running the input variables through the neural network to obtain output, in this case the price for a cabin of given attributes.
-# Inside the for loop the functioning of in the neural network is nicely shown. For the layers the linear combination is calculated first. Than the bias-nodes are added. 
+# Inside the for loop the functioning of the neural network is nicely shown. For the layers the linear combination is calculated first. Than the bias-nodes are added. 
 # The result is used as the input for an activation function.
 
 
